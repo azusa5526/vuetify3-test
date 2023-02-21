@@ -1,0 +1,26 @@
+{
+	"Vue template": {
+		"scope": "vue",
+		"prefix": "vue",
+		"body": ["<template>", "", "</template>", "", "<script setup lang=\"ts\">", "</script>"],
+		"description": "Vue template"
+	},
+	"onMouted": {
+		"scope": "javascript,typescript",
+		"prefix": "vonMouted",
+		"body": ["onMouted(() => {$1});"],
+		"description": "Vue component onMouted"
+	},
+	"ref": {
+		"scope": "javascript,typescript",
+		"prefix": "vref",
+		"body": ["const $1 = ref($2);"],
+		"description": "Vue Ref"
+	},
+	"reactive": {
+		"scope": "javascript,typescript",
+		"prefix": "vreactive",
+		"body": ["const $1 = reactive($2);"],
+		"description": "Vue Reactive"
+	}
+}

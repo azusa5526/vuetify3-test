@@ -1,0 +1,24 @@
+
+{
+	"editor.tabSize": 2,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"workbench.colorCustomizations": {
+		"commandCenter.border": "#e7e7e799",
+		"sash.hoverBorder": "#de187c",
+		"statusBar.background": "#b01362",
+		"statusBar.border": "#b01362",
+		"statusBar.foreground": "#e7e7e7",
+		"statusBarItem.hoverBackground": "#de187c",
+		"statusBarItem.remoteBackground": "#b01362",
+		"statusBarItem.remoteForeground": "#e7e7e7",
+		"tab.activeBorder": "#de187c",
+		"titleBar.activeBackground": "#b01362",
+		"titleBar.activeForeground": "#e7e7e7",
+		"titleBar.border": "#b01362",
+		"titleBar.inactiveBackground": "#b0136299",
+		"titleBar.inactiveForeground": "#e7e7e799"
+	},
+	"peacock.color": "#b01362",
+}
