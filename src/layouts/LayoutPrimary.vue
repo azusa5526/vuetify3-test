@@ -5,7 +5,7 @@
 </template>
 
 <script lang="ts" setup>
-import LayoutAppBar from '@/layouts/components/LayoutAppbar.vue';
+import LayoutAppBar from '@/layouts/components/LayoutAppBar.vue';
 import LayoutNavDrawer from '@/layouts/components/LayoutNavDrawer.vue';
 import LayoutContent from '@/layouts/components/LayoutContent.vue';
 </script>
